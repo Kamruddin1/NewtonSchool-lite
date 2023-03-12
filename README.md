@@ -1,1 +1,2 @@
 # NewtonSchool-lite
+Open master
